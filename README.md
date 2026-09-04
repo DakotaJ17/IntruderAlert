@@ -2,6 +2,7 @@ I used PyCharm & Windows for this. It is currently detecting three things:
 1. Ping of Death (Large ICMP Packets)
 2. SYN Floods (DoS Attacks)
 3. Unencrypted Protocols
+
 It does NOT actively prevent, only detects.
 
 Step 1: Open PyCharm or install at https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows 
