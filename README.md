@@ -1,4 +1,4 @@
-"" I used PyCharm & Windows for this
+I used PyCharm & Windows for this:
 
 Step 1: Open PyCharm or install at https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows 
 
@@ -14,4 +14,6 @@ Step 6: Make sure you have Npcap installed, https://npcap.com/dist/npcap-1.88.ex
         When installing, make sure to select "Install Npcap in WinPcap API-compatible Mode" 
 
 Step 7: Run command prompt as administrator and run your script.
-        Press "Ctrl + C" to stop running it.""
+        Press "Ctrl + C" to stop running it.
+
+ARP Spoofing Detection to be added soon!
